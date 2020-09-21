@@ -1,0 +1,13 @@
+/src
+/__tests__
+/coverage
+/assets
+/tsconfig.json
+/.prettierrc
+/.prettierignore
+/.eslintrc
+/.eslintignore
+/.editorconfig
+/.package-lock.json
+/yarn.lock
+/docs
